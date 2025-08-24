@@ -1,0 +1,20 @@
+[
+  {
+    "id": "doc_1",
+    "lang": "en",
+    "title": "How to reset your password",
+    "text": "To reset your password, go to Settings > Account > Reset password. Follow the instructions sent to your email."
+  },
+  {
+    "id": "doc_2",
+    "lang": "en",
+    "title": "Refund policy for electronics",
+    "text": "We accept returns within 30 days for electronics provided they are in original condition and packaging. Refunds processed within 10 business days."
+  },
+  {
+    "id": "doc_3",
+    "lang": "en",
+    "title": "Shipping times and carriers",
+    "text": "Standard shipping takes 3-7 business days. You can select express shipping at checkout for faster delivery."
+  }
+]

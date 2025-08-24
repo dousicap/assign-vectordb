@@ -1,0 +1,16 @@
+id,type,subject,text,answer
+faq_1,faq,How to reset my password?,To reset your password go to Settings -> Account -> Reset password. You'll receive an email with a reset link.,Go to Settings → Account → Reset password. Check your email and follow the link.
+faq_2,faq,How to cancel subscription?,You can cancel from the Billing page in your account settings or contact support.,Open Billing → Cancel subscription. Contact support if you have trouble.
+faq_3,faq,How to update billing information?,"To update your billing info, go to Account -> Billing -> Update payment method.",Navigate to Billing → Update payment method and enter your new details.
+faq_4,faq,Do you offer refunds?,Refunds are available within 14 days of purchase if eligible.,"Yes, refunds are possible within 14 days. Contact support for help."
+faq_5,faq,How to contact support?,You can contact support via email at support@example.com or through the Help Center chat.,Email support@example.com or open the Help Center chat.
+ticket_1001,ticket,Unable to login after password reset,I tried resetting my password but the link expired. I requested a new link twice and still can't login.,Support provided a new link and advised to clear browser cache.
+ticket_1002,ticket,Billing charged twice,I was charged twice for last month. Please refund one charge.,Refund issued and billing team notified.
+ticket_1003,ticket,Unable to update payment method,"When I try to update my credit card info, it says invalid card even though it’s valid.",Asked customer to try another browser and confirmed card was added manually by billing team.
+ticket_1004,ticket,App keeps crashing,The mobile app crashes every time I try to open the dashboard.,Engineering team released a patch. Customer asked to update to the latest version.
+ticket_1005,ticket,Refund request not processed,I requested a refund last week but haven’t received confirmation.,Support confirmed refund was issued and shared transaction ID.
+ticket_1006,ticket,Unable to login after password reset,I tried resetting my password but the link expired. I requested a new link twice and still can't login.,Support provided a new link and advised to clear browser cache.
+ticket_1007,ticket,Billing charged twice,I was charged twice for last month. Please refund one charge.,Refund issued and billing team notified.
+ticket_1008,ticket,Unable to update payment method,"When I try to update my credit card info, it says invalid card even though it’s valid.",Asked customer to try another browser and confirmed card was added manually by billing team.
+ticket_1009,ticket,App keeps crashing,The mobile app crashes every time I try to open the dashboard.,Engineering team released a patch. Customer asked to update to the latest version.
+ticket_1010,ticket,Refund request not processed,I requested a refund last week but haven’t received confirmation.,Support confirmed refund was issued and shared transaction ID.
